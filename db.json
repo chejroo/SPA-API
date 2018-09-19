@@ -1,0 +1,67 @@
+{
+  "clients": [
+    {
+      "fullname": "Jan Kowalski",
+      "service": "Szyja",
+      "phone": "123 123 123",
+      "price": "110",
+      "doctorName": "Dr. ADAM KOWALSKI",
+      "visitDate": 1537351920000,
+      "id": 1
+    },
+    {
+      "fullname": "Marian Kowalski",
+      "service": "Szyja",
+      "phone": "123 123 123",
+      "price": "230",
+      "doctorName": "Dr. ADAM KOWALSKI",
+      "visitDate": 1538251920000,
+      "id": 2
+    },
+    {
+      "fullname": "Zbigniew Kowalski",
+      "service": "Szyja",
+      "phone": "123 123 123",
+      "price": "130",
+      "doctorName": "Dr. ADAM KOWALSKI",
+      "visitDate": 1537391920000,
+      "id": 3
+    },
+    {
+      "fullname": "Jan Niezbędny",
+      "service": "Szyja",
+      "phone": "123 123 123",
+      "price": "190",
+      "doctorName": "Dr. ADAM KOWALSKI",
+      "visitDate": 1537352420000,
+      "id": 4
+    },
+    {
+      "fullname": "Maria Bocianowa",
+      "service": "Szyja",
+      "phone": "123 123 123",
+      "price": "150",
+      "doctorName": "Dr. ADAM KOWALSKI",
+      "visitDate": 1537391920000,
+      "id": 5
+    },
+    {
+      "fullname": "Jan Kowalski",
+      "service": "Szyja",
+      "phone": "123 123 123",
+      "price": "123",
+      "doctorName": "Dr. JOANNA KOWALSKA",
+      "visitDate": 1536833520000,
+      "id": 6
+    },
+    {
+      "fullname": "Jan Kowalski",
+      "service": "Usługa1",
+      "phone": "123 1231 12",
+      "price": "190",
+      "doctorName": "Dr. JOANNA KOWALSKA",
+      "visitDate": 1537351920000,
+      "id": 7
+    }
+  ]
+}
